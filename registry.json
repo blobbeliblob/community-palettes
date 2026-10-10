@@ -2042,6 +2042,46 @@
       }
     },
     {
+      "name": "Gruvbox Material Medium",
+      "path": "Gruvbox Material Medium",
+      "dark": {
+        "mPrimary": "#a9b665",
+        "mOnPrimary": "#282828",
+        "mSecondary": "#d8a657",
+        "mOnSecondary": "#282828",
+        "mTertiary": "#7daea3",
+        "mOnTertiary": "#282828",
+        "mError": "#ea6962",
+        "mOnError": "#282828",
+        "mSurface": "#282828",
+        "mOnSurface": "#ddc7a1",
+        "mSurfaceVariant": "#32302f",
+        "mOnSurfaceVariant": "#d4be98",
+        "mOutline": "#45403d",
+        "mShadow": "#1b1b1b",
+        "mHover": "#7daea3",
+        "mOnHover": "#282828"
+      },
+      "light": {
+        "mPrimary": "#6c782e",
+        "mOnPrimary": "#fbf1c7",
+        "mSecondary": "#b47109",
+        "mOnSecondary": "#fbf1c7",
+        "mTertiary": "#45707a",
+        "mOnTertiary": "#fbf1c7",
+        "mError": "#c14a4a",
+        "mOnError": "#fbf1c7",
+        "mSurface": "#fbf1c7",
+        "mOnSurface": "#4f3829",
+        "mSurfaceVariant": "#f4e8be",
+        "mOnSurfaceVariant": "#654735",
+        "mOutline": "#ddccab",
+        "mShadow": "#ddccab",
+        "mHover": "#45707a",
+        "mOnHover": "#fbf1c7"
+      }
+    },
+    {
       "name": "GruvboxAlt",
       "path": "GruvboxAlt",
       "dark": {
