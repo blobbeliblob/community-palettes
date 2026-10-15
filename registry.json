@@ -3242,6 +3242,46 @@
       }
     },
     {
+      "name": "Norman",
+      "path": "Norman",
+      "dark": {
+        "mPrimary": "#33CC99",
+        "mOnPrimary": "#0D0D0D",
+        "mSecondary": "#F0DB75",
+        "mOnSecondary": "#0D0D0D",
+        "mTertiary": "#F0758A",
+        "mOnTertiary": "#0D0D0D",
+        "mError": "#F07575",
+        "mOnError": "#0D0D0D",
+        "mSurface": "#0D0D0D",
+        "mOnSurface": "#F2F2F2",
+        "mSurfaceVariant": "#333333",
+        "mOnSurfaceVariant": "#F2F2F2",
+        "mOutline": "#808080",
+        "mShadow": "#4D4D4D",
+        "mHover": "#ADEBD6",
+        "mOnHover": "#0D0D0D"
+      },
+      "light": {
+        "mPrimary": "#33CC99",
+        "mOnPrimary": "#0D0D0D",
+        "mSecondary": "#F0DB75",
+        "mOnSecondary": "#0D0D0D",
+        "mTertiary": "#F0758A",
+        "mOnTertiary": "#0D0D0D",
+        "mError": "#F07575",
+        "mOnError": "#0D0D0D",
+        "mSurface": "#F2F2F2",
+        "mOnSurface": "#0D0D0D",
+        "mSurfaceVariant": "#CCCCCC",
+        "mOnSurfaceVariant": "#0D0D0D",
+        "mOutline": "#808080",
+        "mShadow": "#B3B3B3",
+        "mHover": "#ADEBD6",
+        "mOnHover": "#0D0D0D"
+      }
+    },
+    {
       "name": "Oasis Abyss",
       "path": "Oasis Abyss",
       "dark": {
